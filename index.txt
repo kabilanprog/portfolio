@@ -1,0 +1,237 @@
+kabi - Personal Portfolio
+
+# sidebar
+
+alt = Kabilan S
+Kabilan S
+Full stack development
+
+
+
+Show Contacts
+
+Email
+kabilanprog@gmail.com
+
+Phone
++91 8056664689
+
+Birthday
+Jan 02, 2006
+
+Location
+Coimbatore, Tamilnadu, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I’m a Full Stack Developer and Web Designer from India, focused on creating clean, responsive, and user-friendly web experiences. I enjoy turning ideas into simple and effective designs that work smoothly across devices. Whether it’s front end flow or back end logic, I love building things that feel clear and easy to use
+I’ve worked with internships, online clients, and hackathon projects, gaining hands-on experience in real-world development. I add a personal touch to every project and make sure the design matches the brand and message perfectly. My goal is to build websites and apps that look modern, work fast, and give users a great experience.
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+Jessica miller
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+Emily evans
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Henry william
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Hindusthan college of engineering and technology
+2023 — 2027
+Studying BTech IT at Hindusthan College of Engineering and Technology with a focus on building strong tech skills and real-world problem solving.
+Chandra school
+2022 - 2023
+Completed 12th grade at Chandra School with a strong focus on academics and discipline
+
+Chandra school
+2021 — 2022
+Completed 10th grade at Chandra School, building a solid foundation in academics
+
+
+Experience
+
+Web development
+2025
+Web Development Intern at GrowNext, where I built responsive web features and learned real-world development workflows.
+Full stack development
+2025
+Worked as a Full Stack Developer for SIH 2025, where my project reached the semifinal round. Gained hands-on experience building complete end-to-end solutions.
+Web designer
+2024
+Designed responsive websites for online clients as part of my web design internship, delivering clean and user-focused layouts
+My skills
+
+Web design
+70%
+Full stack
+80%
+Branding
+70%
+Web development
+90%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
